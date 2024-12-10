@@ -1,0 +1,33 @@
+{
+    "acoes": [
+        {
+            "nome": "projetor",
+            "funcoes": {
+                "ligar": "Projetor ligado com sucesso!",
+                "desligar": "Projetor desligado para trabalhos."
+            }
+        },
+        {
+            "nome": "impressora",
+            "funcoes": {
+                "ativar": "Impressora ativada e pronta para uso.",
+                "desativar": "Impressora desativada."
+            }
+        },
+        {
+            "nome": "agenda",
+            "funcoes": {
+                "exibir": "Agenda do dia:\n8:30 - Reunião diária\n10:00 - Encontro com o financeiro\n14:00 - Reunião geral da equipe\n16:00 - Intervalo para café",
+                "mostrar": "Agenda do dia:\n8:30 - Reunião diária\n10:00 - Encontro com o financeiro\n14:00 - Reunião geral da equipe\n16:00 - Intervalo para café",
+                "abrir": "Agenda do dia:\n8:30 - Reunião diária\n10:00 - Encontro com o financeiro\n14:00 - Reunião geral da equipe\n16:00 - Intervalo para café"
+            }
+        },
+        {
+            "nome": "temperatura",
+            "funcoes": {
+                "configurar": "Temperatura ajustada com sucesso.",
+                "ajustar": "Temperatura ajustada com sucesso."
+            }
+        }
+    ]
+}
